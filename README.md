@@ -46,11 +46,11 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
-
+   <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
 
 
 </style> 
-   
+
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 益子ひまわり祭り、2018/08/15 !!!</marquee></span></h1>
@@ -58,7 +58,15 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
+<a href="mashiko01.JPG" data-lightbox="abc" data-title="ひまわり真拡大">
+   <img src="mini01.JPG" alt="ひまわり写真">
+</a>
 	
+	
+	
+	
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>	
 	</body>
 	</html>
 <!-- フッタ -->

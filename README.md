@@ -61,4 +61,8 @@ body::before {
 	
 	</body>
 	</html>
+<!-- フッタ -->
+ <footer>
+ Copyright 2018/08/17 S.Hada
+ </footer>
 	

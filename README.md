@@ -162,8 +162,8 @@ body::before {
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 <br><br>
-<h4><span class="white">↓益子ひまわりまつりへのリンク</span></h4>
-<a href="http://www.town.mashiko.tochigi.jp/page/page002082.html" target="_blank">益子ひまわり祭り</a>
+<h4><span class="white">↓益子、はなのまちづくりHPへのリンク</span></h4>
+<a href="http://www.town.mashiko.tochigi.jp/page/dir000394.html" target="_blank">益子ひまわり祭り</a>
 <br><br><br><br><br>
 </body>
 	</html>

@@ -57,7 +57,7 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 益子ひまわり祭り、2018/08/15 !!!</marquee></span></h1>
 <p align="right">2018年8月15日,朝7:50頃＠益子ひまわり祭り</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~torokoid</marquee></p>
 	
 <a href="mashiko01.JPG" data-lightbox="abc" data-title="ひまわり真拡大">
    <img src="mini01.JPG" alt="ひまわり写真">
@@ -167,6 +167,6 @@ body::before {
 	
 <!-- フッタ -->
  <footer>
- Copyright 2018/08/17 S.Hada
+ Copyright 2018/08/17 Torokoid-Mibu
  </footer>
 	

@@ -57,3 +57,8 @@ body::before {
 <p align="right">2018年8月15日＠益子ひまわり祭り</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+	
+	
+	</body>
+	</html>
+	

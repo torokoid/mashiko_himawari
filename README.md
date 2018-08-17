@@ -54,8 +54,8 @@ body::before {
 
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 益子ひまわり祭り、2018/08/15/08/00 !!!</marquee></span></h1>
-<p align="right">2018年8月15日＠益子ひまわり祭り</p>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 益子ひまわり祭り、2018/08/15 !!!</marquee></span></h1>
+<p align="right">2018年8月15日,朝7:50頃＠益子ひまわり祭り</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	

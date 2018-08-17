@@ -58,7 +58,7 @@ body::before {
 <p align="right">2018年8月15日,朝7:50頃＠益子ひまわり祭り</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~torokoid</marquee></p>
-	
+<h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>	
 <a href="mashiko01.JPG" data-lightbox="abc" data-title="ひまわり真拡大">
    <img src="mini01.JPG" alt="ひまわり写真">
 </a>

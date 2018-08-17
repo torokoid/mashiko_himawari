@@ -42,14 +42,15 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/mashiko_himawari/mashiko32.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/mashiko_himawari/mashiko19.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
+</style> 
+
+
    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
 
-
-</style> 
 
 </head>
 <body>
@@ -61,14 +62,19 @@ body::before {
 <a href="mashiko01.JPG" data-lightbox="abc" data-title="ひまわり真拡大">
    <img src="mini01.JPG" alt="ひまわり写真">
 </a>
-	
-	
+<a href="mashiko02.JPG" data-lightbox="abc" data-title="ひまわり真拡大">
+   <img src="mini02.JPG" alt="ひまわり写真">
+</a>	
+<a href="mashiko03.JPG" data-lightbox="abc" data-title="ひまわり真拡大">
+   <img src="mini03.JPG" alt="ひまわり写真">
+</a>	
 	
 	
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>	
 	</body>
 	</html>
+	<br><br><br><br><br>
 <!-- フッタ -->
  <footer>
  Copyright 2018/08/17 S.Hada

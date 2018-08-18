@@ -54,7 +54,7 @@ body::before {
 
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 益子ひまわり祭り、2018/08/11(土)~19(日) !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 益子ひまわり祭り、2018/08/11(土)~19(日) !!!</marquee></span></h1>
 <p align="right">2018年8月15日,朝7:50頃＠益子ひまわり祭り</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~torokoid</marquee></p>

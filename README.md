@@ -164,7 +164,7 @@ body::before {
 <br><br>
 <h4><span class="white">↓益子、はなのまちづくりHPへのリンク</span></h4>
 <a href="http://www.town.mashiko.tochigi.jp/page/dir000394.html" target="_blank">益子ひまわり祭り</a>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
 	</html>
 	

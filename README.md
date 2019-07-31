@@ -163,7 +163,8 @@ body::before {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 <br><br>
 <h4><span class="white">↓益子、はなのまちづくりHPへのリンク</span></h4>
-<a href="http://www.town.mashiko.tochigi.jp/page/dir000394.html" target="_blank">益子ひまわり祭り</a>
+<a href="http://www.town.mashiko.tochigi.jp/page/dir000394.html" target="_blank">益子ひまわり祭り</a><br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57797.491997464094!2d140.03297052032545!3d36.45868618953245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6021fcf6baaf53b7%3A0xbef08ba7ae9da2d0!2z44Gy44G-44KP44KK56Wt5Lya5aC0!5e0!3m2!1sen!2sjp!4v1564575158565!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
 	</html>

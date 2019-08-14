@@ -42,7 +42,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/mashiko_himawari/mashiko19.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/mashiko_himawari/20190814_016.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -56,6 +56,7 @@ body::before {
 <body>
 <h1><span class="yellow"><marquee behavior="left">!!! 益子ひまわり祭り、2019/08/10(土)~18(日) !!!</marquee></span></h1>
 <p align="right">2019年8月14日,朝9:20頃＠益子ひまわり祭り</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="20190814_001.JPG" data-lightbox="abc"><img src="20190814_001.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190814_002.JPG" data-lightbox="abc"><img src="20190814_002.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190814_003.JPG" data-lightbox="abc"><img src="20190814_003.JPG" alt="サンプル画像" width="200" /></a>
@@ -83,7 +84,7 @@ body::before {
 <br><br>
 <h1><span class="yellow"><marquee behavior="left">!!! 益子ひまわり祭り、2018/08/11(土)~19(日) !!!</marquee></span></h1>
 <p align="right">2018年8月15日,朝7:50頃＠益子ひまわり祭り</p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~torokoid</marquee></p>
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>	
 <a href="mashiko01.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
@@ -193,7 +194,7 @@ body::before {
 <a href="http://www.town.mashiko.tochigi.jp/page/dir000394.html" target="_blank">益子ひまわり祭り</a><br><br>
 <p>Map</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57797.491997464094!2d140.03297052032545!3d36.45868618953245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6021fcf6baaf53b7%3A0xbef08ba7ae9da2d0!2z44Gy44G-44KP44KK56Wt5Lya5aC0!5e0!3m2!1sen!2sjp!4v1564575158565!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
 	</html>
 	

@@ -30,7 +30,10 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
+   p.note { display: none; }
+}
 
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {

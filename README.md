@@ -54,6 +54,12 @@ body::before {
 
 </head>
 <body>
+
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにすると
+  より見やすくご覧頂けます。
+</p>
+ 
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath">2018年、2019年><a href="https://torokoid.github.io/mashiko_himawari_2/">2021年</a>><a href="https://torokoid.github.io/Mashiko_himawari_3/">2023年</a></p></div>
  

@@ -212,6 +212,6 @@ body::before {
 	
 <!-- フッタ -->
  <footer>
- Copyright 2018/08/17 Torokoid-Mibu
+ Copyright 2018/08/17 S,Hada
  </footer>
 	
